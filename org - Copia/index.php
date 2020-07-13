@@ -32,14 +32,11 @@
                     <a class="nav-link" href="#">Home <span class="sr-only">(current page)</span></a>
                 </li>
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Get App</a>
+                    <a class="nav-link" href="#">Download</a>
                 </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="#">About</a>
-                </li>
-                <li class="nav-item active">
-                    <a class="nav-link" href="#">Blog</a>
-                </li>
+                </li>              
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Help</a>
                 </li>
